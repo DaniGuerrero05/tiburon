@@ -1,0 +1,155 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
+
+    <title>Tiburones</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="jumbotron.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Tiburones </a>
+	  <a class="navbar-brand" href="#">Más Peligrosos</a>
+	  <a class="navbar-brand" href="#">Ataques</a>
+	  <a class="navbar-brand" href="#">Opiniones de Expertos</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Sign in</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <img src="Carcharodon_carcharias.jpg" width="350">
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+	<div class="col-md-4">
+          <img src="Carcharodon_carcharias.jpg" width="350">
+       </div>
+        <div class="col-md-4">
+          <h2>Tiburón Blanco</h2>
+          <p>En 1758 Carolus Linnaeus dio al gran tiburón blanco su primer nombre científico, Squalus carcharias. Sir Andrew Smith le dio el nombre genérico Carcharodon en 1833, y en 1873 el nombre genérico fue identificado con el nombre específico de Linnaeus y el nombre científico actual, Carcharodon carcharias. Carcharodon viene de las palabras griegas καρχαρίας "karcharías", que significa "agudo" o "dentado", y οδους, "odous", que significa "diente".</p>
+          <p><a class="btn btn-default" href="#t1" role="button">Más &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <img src="blanco2.jpg" width="300">
+        </div>
+      </div>
+	<div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <img src="tigre.jpg" width="350">
+       </div>
+        <div class="col-md-4">
+          <h2>Tiburón Tigre</h2>
+          <p>El apelativo de "tigre" se debe a que, como el gran felino asiático, este tiburón presenta una serie de rayas oscuras transversales en el dorso y costados que tienden a difuminarse con la edad. Su piel varía del azul al verde azulado lo que supone un gran camuflaje ya que este tiburón suele cazar atacando a su presa desde abajo pasando desapercibida en la profundidad. En la zona ventral y cara es de color blanco.</p>
+          <p><a class="btn btn-default" href="#t2" role="button">Más &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <img src="tigremundo.png" width="350">
+        </div>
+      </div>
+      <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+	<div class="col-md-4">
+          <img src="toro.jpg" width="350">
+       </div>
+        <div class="col-md-4">
+          <h2>Tiburón Toro</h2>
+          <p>El tiburón toro (Carcharias taurus, que no debe ser confundido con el que se conoce en inglés como "Bull Shark" -Carcharhinus leucas-, que en español es conocido como tiburón sarda y con quien ni siquiera comparte orden taxonómico) es una especie de elasmobranquio lamniforme de la familia Odontaspididae presente en todo el mundo, océanos Atlántico, Índico y Pacífico. Es también conocido como escalandrún. Generalmente permanecen dentro del kilómetro de su sitio de agregación, y gusta de estar en el piso oceánico.</p>
+          <p><a class="btn btn-default" href="#t3" role="button">Más &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <img src="toro2.png" width="400">
+        </div>
+      </div>
+	<h1><a id="t1">Tiburón Blanco</a></h1>
+	<h2>Taxonomia</h2>
+		<p>En 1758 Carolus Linnaeus dio al gran tiburón blanco su primer nombre científico, Squalus carcharias. Sir Andrew Smith le dio el nombre genérico Carcharodon en 1833, y en 1873 el nombre genérico fue identificado con el nombre específico de Linnaeus y el nombre científico actual, Carcharodon carcharias. Carcharodon viene de las palabras griegas καρχαρίας "karcharías", que significa "agudo" o "dentado", y οδους, "odous", que significa "diente".</p>
+		<h2>Nombres Comunes</h2>
+		<p>Esta especie recibe multitud de nombres a lo largo de su área de distribución. En español, las denominaciones más comunes son tiburón blanco y gran tiburón blanco (esta última influida por el nombre en inglés, great white shark). El nombre de «blanco» se debe a que en algunos ejemplares viejos, con el paso de los años, han ido aclarando el tono negruzco de su dorso hasta un gris claro, y junto al blanquecino del vientre, les dan el aspecto de ser blancos. Y como escualos que son, siguen creciendo a lo largo de su vida y cuanto más viejos más grandes, de ahí lo de «gran blanco».</p>
+		<p>En España, la denominación tradicional de origen medieval (recuérdese que la propia palabra tiburón procede de las lenguas caribe, y por tanto no se incorpora al español hasta el siglo XVI) lo identifica como jaquetón (aumentativo de jaque, amenaza), nombre que junto con distintos adjetivos se aplica también a muchas otras especies de la familia Carcharhinidae. Existe también el nombre jaquetón blanco, derivado de la fusión entre el nombre anterior y el de tiburón blanco, más popular en la actualidad. El nombre de marrajo, como se le menciona a veces, puede llevar a confusiones con otras especies de tiburones.</p>
+		<p>En Uruguay se da también el nombre de africano a esta especie, mientras que en otros países optan por denominaciones más truculentas como «devorador de hombres». En Cuba también se le conoce como jaquetón de ley, nombre que en España queda reservado a la especie Carcharhinus longimanus.</p>
+		<h2>Evolución</h2>
+		<p>Se estima que el tiburón blanco apareció en el planeta durante el Mioceno,3 siendo el fósil más antiguo encontrado de hace unos 16 millones de años aproximadamente. Según los biólogos deriva de Carcharodon megalodon, un gigantesco tiburón prehistórico. Sin embargo, otros expertos consideran que, a pesar de la indudable pertenencia de ambos al orden de los Lamniformes, el tiburón blanco en realidad tenga mayor parentesco con el mako, del género Isurus.</p>
+		<p>Según los paleontólogos Shelton Applegate, Maisey John, Robert Purdy y el biólogo Leonard Compagno, el megalodón y el gran tiburón blanco provienen de Cretolamna carcharodon, y por lo tanto deben ser considerados como miembros del mismo género, Carcharodon, y de la misma familia, Lamnidae.</p>
+		<p>Cappetta Henri, John Long, Mikael Siverson, y David Ward, por su parte, encuentran que el tiburón blanco viene de una línea separada de la de Megalodon, que a su vez deriva de Cretolamna y Otodus, dos tiburones prehistóricos extintos. También hay teóricos que establecen su descendencia de Carcharodon orientalis, que se cree que pertenecía a un eslabón perdido de la evolución. La similitud entre los dientes del megalodón y el tiburón blanco demuestran la convergencia evolutiva entre ambos, pero no una relación genética directa. Sin embargo, los científicos aún hoy debaten la procedencia exacta del tibúrón blanco.</p>
+	<h1><a id="t2">Tiburón Tigre</a></h1>
+	<h2>Descripción</h2>
+		<p>El apelativo de "tigre" se debe a que, como el gran felino asiático, este tiburón presenta una serie de rayas oscuras transversales en el dorso y costados que tienden a difuminarse con la edad. Su piel varía del azul al verde azulado lo que supone un gran camuflaje ya que este tiburón suele cazar atacando a su presa desde abajo pasando desapercibida en la profundidad. En la zona ventral y cara es de color blanco. El morro es chato y la cabeza, bastante aplastada, presenta una forma casi rectangular, donde destaca un boca parabólica de gran tamaño que se encuentra rodeada por unos pliegues labiales muy desarrollados. Los ojos son grandes y circulares y los orificios nasales alargados y muy adelantados, dispuestos casi en posición frontal. Los dientes son grandes, afilados y muy ganchudos, provistos de bordes fuertemente aserrados, salvo en la parte interna de la punta. Esta peculiar morfología les hace perfectamente capaces de romper huesos de grandes animales y caparazones de tortugas marinas. En caso de perderse alguno de los dientes durante el ataque, otro crece para ocupar su lugar.</p>
+		<h2>Alimetación</h2>
+		<p>El tiburón tigre es un depredador solitario y predominantemente nocturno, que ataca a todo tipo de presas: desde peces óseos y de calamar hasta rayas y otros tiburones, pasando por gasterópodos, crustáceos, serpientes marinas, tortugas marinas, aves y mamíferos marinos (marsopas, delfines, cetáceos, etc.).</p>
+		<p>En España, la denominación tradicional de origen medieval (recuérdese que la propia palabra tiburón procede de las lenguas caribe, y por tanto no se incorpora al español hasta el siglo XVI) lo identifica como jaquetón (aumentativo de jaque, amenaza), nombre que junto con distintos adjetivos se aplica también a muchas otras especies de la familia Carcharhinidae. Existe también el nombre jaquetón blanco, derivado de la fusión entre el nombre anterior y el de tiburón blanco, más popular en la actualidad. El nombre de marrajo, como se le menciona a veces, puede llevar a confusiones con otras especies de tiburones.</p>
+		<p>En Uruguay se da también el nombre de africano a esta especie, mientras que en otros países optan por denominaciones más truculentas como «devorador de hombres». En Cuba también se le conoce como jaquetón de ley, nombre que en España queda reservado a la especie Carcharhinus longimanus.</p>
+		<h2>Distribución</h2>
+		<p>La especie se encuentra principalmente en aguas tropicales y subtropicales de Oceanía y el sureste asiático, llegando por el norte a Japón y por el sur hasta Nueva Zelanda. Habita también en aguas costeras de todo el Océano Índico, el Golfo Pérsico y el Mar Rojo. En América se le encuentra en la costa del Pacífico desde el sur de California al norte de Chile (incluidas varias islas como las Revillagigedo y las Galápagos), y en el Atlántico, desde el Río de la Plata hasta Nueva Inglaterra, siendo particularmente abundante en el Mar Caribe y el Golfo de México. En África está presente en el Golfo de Guinea, desde donde se extiende bordeando la costa noroeste del continente hasta alcanzar Marruecos y Canarias. Aunque ausente del Mediterráneo, existe una población exigua en el Golfo de Cádiz y áreas circundantes que ocasionalmente se adentra en el Estrecho de Gibraltar. Mucho más extraña es la presencia de una población en el sur de Islandia, siendo la que está situada más al norte y que vive en aguas más frías. Se han registrado avistamientos (sin confirmar) en Irlanda, Gales y Cornualles (Véase arriba cuadro taxonómico).</p>
+		<p>La especie no se considera amenazada. En diferentes partes del mundo se captura por deporte, consumo y obtención de algunos productos como aceite de hígado, aletas para la obtención de sopa y cuero. También puede criarse en acuarios públicos, en los cuales demuestra generalmente una gran permisividad ante la presencia humana dentro del agua.</p>
+	<h1><a id="t3">Tiburón Toro</a></h1>
+		<p>El tiburón sarda (México), lamia (España) o gayarre (Carcharhinus leucas) es una especie de elasmobranquio carcarriniforme de la familia Carcharhinidae. Es uno de los pocos tiburones que remonta los estuarios para alcanzar aguas dulces.1 Llega a medir hasta 3,4 m de largo.</p>
+		<h2>Nombre Común</h2>
+		<p>Carcharhinus leucas, conocido en países de habla inglesa como "Bull Shark", no debe ser confundido por esta razón con Carcharias taurus, conocido en español como tiburón toro (también jaquetón toro o pez toro) y con quien no comparte siquiera orden taxonómico. Aplicar en este caso una traducción literal de su nombre común entre estos idiomas es un error frecuente que confunde especies muy distintas.</p>
+<p>Para evitar la ambigüedad entre estas especies que ni siquiera son filogenéticamente cercanas (el último antepasado común de estas dos especies existió hasta hace 140 millones de años3 ), es muy recomendable evitar el uso del nombre "toro" para referirse a esta especie.</p>
+		
+		<h2>Distribución</h2>
+		<p>Puede ser encontrado río adentro en el Amazonas en Sudamérica, el Zambeze (por lo que se le llama también tiburón del Zambeze) y el Limpopo en África, en el Lago Cocibolca en Nicaragua, canales de Tortuguero en Costa Rica y el Ganges en la India.En el Pacífico se lo encuentra desde Baja California hasta Ecuador y Taiwán hasta Australia y Nueva Zelanda. En el Atlántico desde las Antillas, Colombia y Venezuela hasta Brasil.</p>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Company 2013</p>
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+  </body>
+</html>
+
