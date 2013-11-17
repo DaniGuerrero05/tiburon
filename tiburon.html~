@@ -38,9 +38,9 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Tiburones </a>
-	  <a class="navbar-brand" href="#">Más Peligrosos</a>
-	  <a class="navbar-brand" href="#">Ataques</a>
+          <a class="navbar-brand" href="#">Inicio </a>
+	  <a class="navbar-brand" href="#mp">Más Peligrosos</a>
+	  <a class="navbar-brand" href="#at">Ataques</a>
 	  <a class="navbar-brand" href="#">Opiniones de Expertos</a>
         </div>
         <div class="navbar-collapse collapse">
@@ -59,7 +59,10 @@
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
-      <img src="Carcharodon_carcharias.jpg" width="350">
+      <div class="container">
+        <h1>Tiburones</h1>
+        <p>En esta web recopilamos informacion acerca de lo tipos de escualos mas conocidos del mundo y debatimos si son devoradores de personas.</p>
+      </div>
     </div>
 
     <div class="container">
@@ -136,7 +139,31 @@
 		
 		<h2>Distribución</h2>
 		<p>Puede ser encontrado río adentro en el Amazonas en Sudamérica, el Zambeze (por lo que se le llama también tiburón del Zambeze) y el Limpopo en África, en el Lago Cocibolca en Nicaragua, canales de Tortuguero en Costa Rica y el Ganges en la India.En el Pacífico se lo encuentra desde Baja California hasta Ecuador y Taiwán hasta Australia y Nueva Zelanda. En el Atlántico desde las Antillas, Colombia y Venezuela hasta Brasil.</p>
-
+	<h1><a id="mp">Más Peligrosos</a></h1>
+	<ol>
+		<li value="1">Gran Tiburon Blanco</li>
+		<li>Tiburon Limon</li>
+		<li>Tiburon Martillo</li>
+		<li>Tiburon Azul o Tintorera</li>
+		<li>Tiburon Toro</li>
+		<li>Tiburon Tigre de Arena</li>
+		<li>Tiburon Gris de Arrecife</li>
+		<li>Tiburon Mako o Marrajo</li>
+		<li>Tiburon de Punta Blanca</li>
+		<li>Tiburon Tigre</li>
+	</ol>
+	<h1><a id="at">Ataques</a></h1>
+	<h4>Ataque de tiburones al USA Indianápolis</h4>
+	<p>Más de 900 hombres fueron arrojados a merced de los tiburones del océano Pacífico cuando su buque de guerra, el USS Indianápolis, se dividió en dos por torpedos japoneses en julio de 1945. Cuando los rescatistas llegaron; cuatro días más tarde, encontraron 579 hombres muertos. Woody James, entre solo 316 sobrevivientes, dijo más tarde: “Los tiburones estaban alrededor, cientos de ellos… Todo estaba tranquilo y de momento se oía gritar a alguien y entonces se sabía que un tiburón lo había atacado.”</p>
+	<h4>Ataque de tiburones a Shirley Ann Durdin</h4>
+	<p>En 1985, Shirley Ann Durdin buceaba en la Bahía de Peake de Australia cuando fue atacada por un gran tiburón blanco, según testigos, tenia 20 pies de largo. El poderoso pez arrancó el cuerpo de 33-años de edad, a la mitad mientras su esposo y cuatro hijos miraban con horror de la orilla. Cuando los rescatistas llegaron, lo único que quedaba era su torso sin cabeza flotando en el agua. Al rato, el tiburón volvió y devoro eso también.</p>
+	<h4>Jersey; Ataque de tiburones en tierra</h4>
+	<p>Cuatro personas murieron en una avalancha de ataques de tiburones a lo largo de la costa de Nueva Jersey en los Estados Unidos durante la mortal ola de calor de 1916. La primera víctima, de 25 años de edad, Charles Vansant, murió desangrado después que los tiburones lo despojaran de la carne de su muslo. Cinco días más tarde, Charles Bruder, de 27 años, murió después que un tiburón le arrancó en el abdomen y le cortara las piernas mientras nadaba en la playa de Spring Lake, a 45 kilómetros al norte de Beach Haven.</p>
+	<h4>Ataque de tiburones a Barry Wilson</h4>
+	<p>Amante de la natación; cerca de Punta del frente a la costa de California en 1952, de 17 años de edad, Barry Wilson fue visto por espectadores sacudirse repentinamente de un lado a otro. Los testigos vieron a un tiburón fuera del agua atacándolo de frente y arrastrándolo bajo el agua. Wilson reapareció segundos más tarde, gritando y agitando los brazos en un charco de sangre. Cinco nadadores compañeros lucharon durante 30 minutos para arrastrarlo hasta la playa a través del oleaje, pero murió desangrado antes de llegar a la orilla.
+	<h4>Ataque de tiburones a Rodney Fox</h4>
+	<p>Rodney Fox, entonces 13 años, fue a la defensa de su título de lanza de pesca australiano en 1953, cuando un gran tiburón blanco lo agarró y lo arrastró a través del agua boca abajo. El depredador lo dejó en libertad al defenderse, pero pronto volvió y atacó de nuevo. Fox con el brazo atascado en la boca del tiburon tiró de él, rasgando la carne de su brazo. El tiburón lo soltó y regresó una tercera vez, arrastrando a Fox al fondo del océano.</p>
+	<p>Después de casi ahogarse, el adolescente fue liberado y sacado a bordo de un barco cercano con su caja torácica, pulmones y el estómago superior expuesta. Milagrosamente, sus arterias principales se mantuvieron intactas y sobrevivió después de cuatro horas de cirugía y 360 puntos.</p>
       <hr>
 
       <footer>
